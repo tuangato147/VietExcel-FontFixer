@@ -25,7 +25,7 @@ Nếu dùng Unikey để chuyển mã, bạn sẽ phải copy từng ô và **b�
 
 ## 🚀 Tải về sử dụng ngay (Không cần cài Python)
 
-1. Tải file **`VietExcel_FontFixer.exe`** mới nhất tại mục [Releases](https://github.com/).
+1. Tải file **`VietExcel_FontFixer.exe`** mới nhất tại mục [Releases](https://github.com/tuangato147/VietExcel-FontFixer/releases).
 2. Nhấp đúp chuột để mở ứng dụng.
 3. Kéo/chọn các file Excel cần sửa ➔ Bấm **"BẮT ĐẦU CHUYỂN ĐỔI"**.
 4. File kết quả sẽ được tạo ra với đuôi `_fixed.xlsx` ngay cạnh file gốc.
